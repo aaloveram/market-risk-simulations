@@ -1,2 +1,2 @@
 # market-risk-simulations
-Quantitative simulations focused on modeling market risk and uncertainty. This repository explores stochastic returns, volatility, and scenario-based analysis to build strong financial engineering intuition with an emphasis on interpretability and real-world relevance.
+This repository contains quantitative simulations focused on modeling uncertainty and risk in financial markets. It explores how stochastic assumptions, volatility, and randomness impact asset behavior through simple, interpretable models. The goal is to build strong financial engineering intuition around market risk, rather than over-engineering solutions.
